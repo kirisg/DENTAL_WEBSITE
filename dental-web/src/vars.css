@@ -1,0 +1,12 @@
+/* this can be use in mutiple components */
+
+:root {
+    --color-text: #ffffff;
+    --color-primary: #007bff;
+    --color-secondary: #6c757d;
+    --color-dark: #343a40;
+    --color-light: #f8f9fa;
+    --color-bg: #00082e;
+
+    --font-roboto: 'Roboto', sans-serif;
+}
